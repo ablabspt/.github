@@ -7,6 +7,8 @@
 
 <p align="center"><strong>We make our own software. And we build yours.</strong></p>
 
+<p align="center"><a href="https://ablabs.pt">ablabs.pt</a></p>
+
 A&B Labs is a small software company based in Portugal. We build custom websites and applications for schools, institutions and companies, and we are developing products of our own. You can count on our commitment to every project, and on a team that stays close to you, from the first conversation to launch and beyond.
 
 ## What we do
@@ -38,6 +40,6 @@ A&B Labs is a small software company based in Portugal. We build custom websites
 
 ## Get in touch
 
-Have a project in mind? Email us at [support@ablabs.pt](mailto:support@ablabs.pt). We reply to every message, usually within two business days, and we'll tell you honestly whether we are the right team for your project.
+Have a project in mind? Visit [ablabs.pt](https://ablabs.pt) or email us at [support@ablabs.pt](mailto:support@ablabs.pt). We reply to every message, usually within two business days, and we'll tell you honestly whether we are the right team for your project.
 
 <p align="center"><sub>Software made with ♥ in Portugal.</sub></p>
